@@ -1,3 +1,4 @@
+/* eslint-disable no-explicit-any */
 import { useState, useEffect, useRef } from "react";
 import {
   ChevronDown,
