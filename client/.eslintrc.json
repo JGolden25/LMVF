@@ -1,3 +1,9 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "no-var": "off",
+    "react/no-no-var": "off",
+    "react/no-unescaped-entities": "off",
+      "@next/next/no-page-custom-font": "off"
+  }
 }
