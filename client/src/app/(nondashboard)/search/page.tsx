@@ -3,7 +3,7 @@
 import Loading from "@/components/Loading";
 import { useGetCoursesQuery } from "@/state/api";
 import { useRouter, useSearchParams } from "next/navigation";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, Suspense } from "react";
 import { motion } from "framer-motion";
 import CourseCardSearch from "@/components/CourseCardSearch";
 import SelectedCourse from "./SelectedCourse";
@@ -50,7 +50,7 @@ const Search = () => {
       className="search"
     >
       <h1 className="search__title">List of available courses</h1>
-      <h2 className="search__subtitle">{courses.length} courses avaiable</h2>
+      <h2 className="search__subtitle">{courses.length} courses available</h2>
       <div className="search__content">
         <motion.div
           initial={{ y: 40, opacity: 0 }}
@@ -86,4 +86,11 @@ const Search = () => {
   );
 };
 
-export default Search;
+// Wrapper for Suspense to handle useSearchParams (CSR)
+export default function SearchWrapper() {
+  return (
+    <Suspense fallback={<Loading />}>
+      <Search />
+    </Suspense>
+  );
+}
