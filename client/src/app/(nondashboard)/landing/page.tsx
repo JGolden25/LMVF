@@ -75,7 +75,7 @@ const Landing = () => {
       <div className="landing__hero-content">
         <h1 className="landing__title">Courses</h1>
         <p className="landing__description">
-          This is the list of the courses you can enroll in.
+          This is the list of the dentistry courses you can enroll in.
           <br />
           Courses when you need them and want them.
         </p>
@@ -110,18 +110,18 @@ const Landing = () => {
       >
         <h2 className="landing__featured-title">Featured Courses</h2>
         <p className="landing__featured-description">
-          From beginner to advanced, in all industries, we have the right
+          From beginner to advanced, in all realms of dentistry, we have the right
           courses just for you and preparing your entire journey for learning
           and making the most.
         </p>
 
         <div className="landing__tags">
           {[
-            "web development",
-            "enterprise IT",
-            "react nextjs",
-            "javascript",
-            "backend development",
+            "Basic Dental Anatomy",
+            "Preventive Dentistry",
+            "Periodontal Disease",
+            "Basic Radiography",
+            "Oral Hygiene Instructions",
           ].map((tag, index) => (
             <span key={index} className="landing__tag">
               {tag}
