@@ -243,13 +243,13 @@
     "sections": [
       {
         "sectionId": "3e5f7g9h-1i3j-5k7l-9m1n-3o5p7q9r1s3t",
-        "sectionTitle": "HTML Basics",
+        "sectionTitle": "Fundamentals of CAD/CAM Technology in Dentistry: Understanding the Workflow",
         "sectionDescription": "Learn the fundamentals of HTML.",
         "chapters": [
           {
             "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
             "type": "Video",
-            "title": "Introduction to HTML",
+            "title": "Chapter 1: Introduction to CAD/CAM Technology in Dentistry",
             "content": "https://example.com/videos/intro-to-html.mp4",
             "video": "https://example.com/videos/intro-to-html.mp4",
             "comments": []
@@ -257,14 +257,14 @@
           {
             "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
             "type": "Quiz",
-            "title": "HTML Tags Quiz",
+            "title": "Chapter 2: The CAD/CAM Workflow: From Scanning to Restoration",
             "content": "1. What does HTML stand for?\n2. Name three basic HTML tags.\n3. What is the purpose of the <head> tag?",
             "comments": []
           },
           {
             "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
             "type": "Text",
-            "title": "HTML Forms and Input Elements",
+            "title": "Chapter 3: Key Technologies and Materials in CAD/CAM Dentistry",
             "content": "HTML forms are used to collect user input. Learn about various input types and form elements...",
             "comments": []
           }
@@ -272,13 +272,13 @@
       },
       {
         "sectionId": "4f6g8h0i-2j4k-6l8m-0n2p-4q6r8s0t2u4v",
-        "sectionTitle": "CSS Styling",
+        "sectionTitle": "Practical Application of CAD/CAM Software for Dental Restoration Design",
         "sectionDescription": "Learn how to style your HTML with CSS.",
         "chapters": [
           {
             "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
             "type": "Video",
-            "title": "CSS Basics",
+            "title": "Chapter 1: Introduction to CAD/CAM Software for Dental Restoration",
             "content": "https://example.com/videos/css-basics.mp4",
             "video": "https://example.com/videos/css-basics.mp4",
             "comments": []
@@ -286,14 +286,14 @@
           {
             "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
             "type": "Text",
-            "title": "CSS Layout Techniques",
+            "title": "Chapter 2: Step-by-Step Design of Dental Restorations in CAD Software",
             "content": "Learn about different CSS layout techniques including Flexbox and Grid...",
             "comments": []
           },
           {
             "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
             "type": "Quiz",
-            "title": "CSS Styling Quiz",
+            "title": "Chapter 3: Preparing and Finalizing Designs for Milling and 3D Printing",
             "content": "1. What is the box model in CSS?\n2. Explain the difference between inline and block elements.\n3. How do you center an element horizontally and vertically using Flexbox?",
             "comments": []
           }
@@ -319,13 +319,13 @@
     "sections": [
       {
         "sectionId": "4u6v8w0x-2y4z-6a8b-0c2d-4e6f8g0h2i4j",
-        "sectionTitle": "Introduction to Data Science",
+        "sectionTitle": "Introduction to Dentistry: The Role of Dental Professionals",
         "sectionDescription": "Learn the basics of data science and its applications.",
         "chapters": [
           {
             "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
             "type": "Video",
-            "title": "What is Data Science?",
+            "title": "Chapter 1: Understanding Basic Dental Terminology and Tools",
             "content": "https://example.com/videos/what-is-data-science.mp4",
             "video": "https://example.com/videos/what-is-data-science.mp4",
             "comments": []
@@ -333,7 +333,7 @@
           {
             "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
             "type": "Quiz",
-            "title": "Data Science Basics Quiz",
+            "title": "Chapter 2: Foundations of Oral Health: Preventive Care and Self-Care",
             "content": "1. Define data science.\n2. What are the main components of data science?\n3. How does machine learning relate to data science?",
             "comments": []
           }
@@ -356,13 +356,13 @@
     "sections": [
       {
         "sectionId": "5k7l9m1n-3o5p-7q9r-1s3t-5u7v9w1x3y5z",
-        "sectionTitle": "Getting Started with React Native",
+        "sectionTitle": "The Basics of Oral Anatomy and Physiology",
         "sectionDescription": "Learn the basics of React Native development.",
         "chapters": [
           {
             "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
             "type": "Video",
-            "title": "Setting Up Your Development Environment",
+            "title": "Chapter 1: Preventive Dentistry and Oral Hygiene Practices",
             "content": "https://example.com/videos/react-native-setup.mp4",
             "video": "https://example.com/videos/react-native-setup.mp4",
             "comments": []
@@ -370,7 +370,7 @@
           {
             "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
             "type": "Text",
-            "title": "React Native Basics",
+            "title": "Chapter 2: Common Dental Conditions and Their Management",
             "content": "Learn about functions, objects, and other core concepts in JavaScript...",
             "comments": []
           }
