@@ -84,7 +84,7 @@ const CheckoutDetailsPage = () => {
   );
 };
 
-// Wrapper for Suspense to handle useSearchParams
+// Wrapper for Suspense to handle useSearchParam
 export default function CheckoutPageWrapper() {
   return (
     <Suspense fallback={<Loading />}>
